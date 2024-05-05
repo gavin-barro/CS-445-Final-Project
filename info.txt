@@ -1,0 +1,2 @@
+Due to the size of the csv dataset, we were unable to upload it to this website. We have provided the link below for anyone that may be interested, courtesy of Kaggle:
+https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023?resource=download
